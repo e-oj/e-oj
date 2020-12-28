@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 ![e-oj's github stats](https://github-readme-stats.vercel.app/api?username=e-oj&hide=issues,contribs)
 <!--
