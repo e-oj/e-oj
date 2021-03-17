@@ -1,7 +1,5 @@
 ![e-oj's github stats](https://github-readme-stats.vercel.app/api?username=e-oj&hide=issues,contribs&theme=graywhite)
 
-<a href="https://www.buymeacoffee.com/e.oj"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=e-oj&button_colour=40DCA5&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" width=200px></a>
-
 <!--
 **e-oj/e-oj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
